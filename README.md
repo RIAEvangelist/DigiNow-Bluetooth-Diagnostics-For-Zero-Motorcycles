@@ -1,7 +1,7 @@
 # Bluetooth Diagnostics Dongle For Zeros
 ***DigiNow.it would like to thank you so much!*** Your support has allowed us to develop this aftermarket part for Zero Motorcycles. Without your patience and support we would not have been able to do it!
 
-Please feel free to contact us about any questions you may have either through the forms or our email. brandon@diginow.it or mike@diginow.it You may also contact Hollywood Elelectrics at their email info@hollywoodelectrics.com
+Please feel free to contact us about any questions you may have either through the forms or our email. brandon@diginow.it or mike@diginow.it You may also contact Hollywood Elelectrics at their email info@hollywoodelectrics.com Issues, suggestions and more can be filed on the projects open sourced [GitHub Repository](https://github.com/RIAEvangelist/DigiNow-Bluetooth-Diagnostics-For-Zero-Motorcycles/issues).
 
 Depending on the year model of your bike, you may have basic access via your new bluetooth terminal. Or you may need to login. The basic level of password as is publicly available on the forums is 1.21gigawatts If you wish to do anything requireing higher level access than this, please contact us, or our preferred vendor Hollywood Electrics
 
@@ -9,7 +9,7 @@ Please note Hollywood electrics is the foremost expert and leading dealership fo
 
 **Thank you again for your support!** Together we are enabling the Zero community to have more control over their own bikes!
 
-This document is online @
+[This document is online here](http://riaevangelist.github.io/DigiNow-Bluetooth-Diagnostics-For-Zero-Motorcycles/). It is maintained as a github repository so if you would like to be a part of the documentation effort please fell free to contribute!  
 
 ----  
 ## By using this product you agree to the following :
