@@ -11,6 +11,7 @@ Please note Hollywood electrics is the foremost expert and leading dealership fo
 
 This document is online @
 
+----  
 ## By using this product you agree to the following :
 1. Neither DigiNow.it, Hollywood Electrics, nor Zero Motorcycles is responcible for any damage caused to property, people, your bike, or your person during or after using this device.
 2. You understand that use of this device may void your warantee.
@@ -18,9 +19,9 @@ This document is online @
 4. You accept all responcibility for any positive or negative results from using this product.
 
 ---
-## Documentation :
+## Documentation :  
 
-#### Caution :
+#### Caution :  
 * Always test bike thuroughly after modifying any settings.
 * Always test bike in a clear open area in cood weather conditions.
 * Always use rear stand when programing bike to prevent accidental movement.
@@ -30,13 +31,14 @@ This document is online @
 
 ----
 
-#### Recommended Terminals
+#### Recommended Terminals  
 
-**Desktop**
-Most Modern operating systems will handle Bluetooth Serial ports automatically. In the case that your OS does not, You may need to forward your bluetooth port to a serial port or com port.
+**Desktop**  
+Most Modern operating systems will handle Bluetooth Serial ports automatically. In the case that your OS does not, You may need to forward your bluetooth port to a serial port or com port.  
 
 1. [CoolTerm](http://freeware.the-meiers.org/) Available for Windows, Mac, and Linux.
-2. [DigiNow Chrome Serial Terminal](https://chrome.google.com/webstore/detail/diginow-serial-terminal/kfmecbejcnepbfdcdbbhfcjmdmmcmoah) Available for any OS with Chrome
+2. [DigiNow Chrome Serial Terminal](https://chrome.google.com/webstore/detail/diginow-serial-terminal/kfmecbejcnepbfdcdbbhfcjmdmmcmoah) Available for any OS with Chrome  
 
-**Android**
+**Android**  
+
 1. [BlueTerm](https://play.google.com/store/apps/details?id=es.pymasde.blueterm&hl=en) You will have to modify the preferences for the incoming line endings to both be "Replace by CRLF"
